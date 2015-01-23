@@ -45,13 +45,13 @@
     <footer>
     <section class="contained">
     	<section class="aix">
-    		<h2>Aix les Bains</h2>
+    		<h2>Tunisie</h2>
     		<address>Savoie Hexapole<br />Batiment papyrus<br />73420 Méry</address>
     		<span class="tel">Tél. 04 79 63 39 73</span>
     	</section>
 
     	<section class="lyon">
-    		<h2>Lyon</h2>
+    		<h2>Canada</h2>
     		<address>11 rue waldeck<br />Rousseau<br />69006 Lyon</address>
     		<span class="tel">Tél. 04 72 37 41 49</span>
     	</section>

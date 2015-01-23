@@ -23,12 +23,7 @@ $twitter = new TwitterOAuth($consumer,$consumersecret,$accesstoken,$accesstokens
 	if(isset($_POST['keyword'])){
 	$tweets=$twitter->get('https://api.twitter.com/1.1/search/tweets.json?q='.$_POST['keyword'].'&lang=tr& result_type=recent&count=150');
 	
-	foreach($tweets as $tweet){
-		
-		foreach($tweet as $t){
-			echo $t->text.'</br>';
-		}
-	 }
+	
 	}
 	?>
 	</center>
